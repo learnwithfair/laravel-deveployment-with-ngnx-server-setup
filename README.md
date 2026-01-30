@@ -141,7 +141,7 @@ sudo git clone https://github.com/learnwithfair/christophlombar.git
 Set ownership:
 
 ```bash
-sudo chown -R aeroadmin:www-data /var/www/christophlombar
+sudo chown -R www-data /var/www/christophlombar
 ```
 
 ---
